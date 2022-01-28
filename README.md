@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soly4G
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python and C/#/++
 - 📫 You can reach me on my Twitter via Dms
 
 <!---
